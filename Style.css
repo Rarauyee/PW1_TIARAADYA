@@ -1,0 +1,30 @@
+.box{
+  margin: 150px auto;
+  height: 300px;
+  width: 600px;
+  
+}
+.atas{
+  height: 50px;
+  width: 600px;
+  background-color: green;
+}
+.kiri{
+  height: 250px;
+  width: 200px;
+  float: left;
+  background-color: #ccc;
+}
+.gambar{
+  background-image: ;
+  height: 180px;
+  width: 180px;
+  border-radius: 80%;
+  margin-top: 10px;
+}
+.kanan{
+  width: 400px;
+  height: 250px;
+  background-color: #ccc;
+  float: center;
+}
